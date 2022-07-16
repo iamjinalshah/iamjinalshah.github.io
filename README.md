@@ -1,5 +1,5 @@
-# iamjinalshah.github.io
-Portfolio to showcase professional and personal information - [iamjinalshah.github.io](https://iamjinalshah.github.io/)
+### jinshah93
+Portfolio to showcase professional and personal information - [jinshah93.github.io](https://jinshah93.github.io/)
 
 ### Built With
 
