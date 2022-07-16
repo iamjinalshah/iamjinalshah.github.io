@@ -11,3 +11,4 @@ Portfolio to showcase professional and personal information - [jinshah93.github.
 ### Made With
 
 * Passion
+Jinal shah
